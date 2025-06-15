@@ -16,3 +16,6 @@ streamlit run app.py
 ```
 
 - Follow the UI to input customer data and get churn prediction.
+
+- You can also try the streamlit app
+[Churn Prediction App](http://aanalyzechurn.streamlit.app/)
